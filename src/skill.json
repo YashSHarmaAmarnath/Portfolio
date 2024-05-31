@@ -1,0 +1,120 @@
+[
+    {
+        "name": "Python",
+        "image_url": "https://cdn-icons-png.flaticon.com/512/3098/3098090.png",
+        "info":"Python is a high-level, interpreted programming language known for its simplicity and readability. Created by Guido van Rossum and first released in 1991, Python emphasizes code readability and allows developers to write clear, logical code for small and large-scale projects. It supports multiple programming paradigms, including procedural, object-oriented, and functional programming. Python is widely used in web development (with frameworks like Django and Flask), data science (with libraries like Pandas, NumPy, and SciPy), machine learning (with TensorFlow and PyTorch), automation, and more."
+      },
+      {
+        "name": "C",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/1200px-C_Programming_Language.svg.png",
+        "info":"C is a general-purpose, procedural programming language developed by Dennis Ritchie at Bell Labs in 1972. It has become one of the most widely used languages of all time, particularly known for its performance and close-to-hardware level manipulation capabilities. C is used in developing operating systems, embedded systems, and high-performance applications. It provides low-level access to memory and offers a minimalistic syntax, which can lead to efficient and fast programs."
+
+      },
+      {
+        "name": "C++",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png",
+        "info":"C++ is an extension of the C programming language, designed by Bjarne Stroustrup and first released in 1985. It includes object-oriented features, such as classes and inheritance, in addition to the procedural programming capabilities of C. C++ is known for its performance and efficiency, making it suitable for system/software development, game development, real-time simulation, and applications requiring high-performance computations. It supports both high-level and low-level programming, providing a great degree of control over system resources."
+      },
+      {
+        "name": "JavaScript",
+        "image_url": "https://cdn-icons-png.flaticon.com/512/1199/1199124.png",
+        "info":"JavaScript is a high-level, interpreted scripting language that is primarily known for its use in web development to create interactive and dynamic web pages. Initially developed by Brendan Eich in 1995, JavaScript has evolved to become one of the core technologies of the World Wide Web, alongside HTML and CSS. It is a versatile language that can be used on both the client side (in the browser) and the server side (with Node.js). JavaScript is widely used for front-end development, building responsive user interfaces, and implementing complex features like animations, form validations, and asynchronous operations."
+      },{
+        "name": "HTML & CSS",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/CSS3_and_HTML5_logos_and_wordmarks.svg/791px-CSS3_and_HTML5_logos_and_wordmarks.svg.png",
+        "info":"HTML (HyperText Markup Language) and CSS (Cascading Style Sheets) are the foundational technologies used to create and design web pages."
+      },
+      {
+        "name": "Java",
+        "image_url": "https://cdn-icons-png.flaticon.com/512/3291/3291669.png",
+        "info":"Java is a high-level, class-based, object-oriented programming language designed by James Gosling and released by Sun Microsystems in 1995. It is known for its portability, thanks to the \"write once, run anywhere\" (WORA) capability enabled by the Java Virtual Machine (JVM). Java is widely used in enterprise environments, web applications (via frameworks like Spring), Android app development, and large-scale systems. It emphasizes security, robustness, and backward compatibility, making it a stable and reliable choice for many developers."
+      },
+      {
+        "name": "SQL",
+        "image_url": "   https://cdn-icons-png.flaticon.com/512/7069/7069812.png ",
+        "info":"SQL (Structured Query Language) is a domain-specific language used for managing and manipulating relational databases. Initially developed at IBM by Donald D. Chamberlin and Raymond F. Boyce in the 1970s, SQL has become the standard language for interacting with relational database management systems (RDBMS) such as MySQL, PostgreSQL, Oracle, and SQL Server. SQL allows users to query, insert, update, and delete data, as well as manage database schemas and control access to the data. It is essential for backend development, data analysis, and any application that requires persistent data storage"
+      },
+      {
+        "name": "React",
+        "image_url": "https://cdn-icons-png.flaticon.com/512/919/919851.png",
+        "info":"React is a JavaScript library for building user interfaces, primarily for single-page applications where a fast, interactive user experience is crucial. Developed by Facebook and released in 2013, React allows developers to create reusable UI components and manage the state of their applications efficiently. Its virtual DOM mechanism optimizes updates, making rendering operations faster. React is widely used for web development, providing a robust ecosystem with tools like React Router for routing and Redux for state management."
+      },
+      {
+        "name": "React Native",
+        "image_url": "https://cdn-icons-png.flaticon.com/512/875/875209.png",
+        "info":"React Native is a framework for building native mobile applications using JavaScript and React. Introduced by Facebook in 2015, React Native allows developers to write code that runs on both iOS and Android platforms, using native components for performance. It leverages the same design principles as React, making it easier for web developers to transition to mobile app development. React Native has a rich ecosystem and community, providing libraries and tools for building complex mobile applications."
+      },
+      {
+        "name": "Flask",
+        "image_url": "https://cdn.icon-icons.com/icons2/2389/PNG/512/flask_logo_icon_145276.png",
+        "info":"Flask is a lightweight web framework for Python, designed to be simple and easy to use. Created by Armin Ronacher in 2010, Flask is based on the WSGI toolkit and the Jinja2 template engine. It follows a minimalistic approach, providing essential tools for web development without enforcing a particular structure or dependencies. Flask is highly extensible, allowing developers to integrate various libraries and extensions as needed, making it suitable for both small projects and large applications."
+      },
+      {
+        "name": "Django",
+        "image_url": "https://www.djangoproject.com/m/img/logos/django-logo-negative.png",
+        "info":"Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design. Created by Adrian Holovaty and Simon Willison in 2005, Django follows the \"batteries-included\" philosophy, providing a wide range of built-in features like an ORM, authentication, and an admin panel. It promotes the DRY (Don't Repeat Yourself) principle and includes powerful tools for building robust web applications quickly. Django is widely used for content management systems, social networks, and other complex web applications."
+      },
+      {
+        "name": "Pandas",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png",
+        "info":"Pandas is a powerful data manipulation and analysis library for Python. Developed by Wes McKinney in 2008, Pandas provides data structures like DataFrame and Series for handling structured data efficiently. It offers a wide range of functions for data cleaning, transformation, aggregation, and visualization, making it a cornerstone tool for data science and analysis. Pandas is built on top of NumPy and integrates well with other scientific libraries like Matplotlib and SciPy."
+      },{
+        "name":"numpy",
+        "image_url":"https://seeklogo.com/images/N/numpy-logo-479C24EC79-seeklogo.com.png",
+        "info":"NumPy is a fundamental library for numerical computing in Python. Created by Travis Oliphant in 2006, NumPy provides support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays. It is the backbone of many scientific computing libraries in Python, offering performance close to C or Fortran. NumPy is essential for tasks involving linear algebra, statistical operations, and numerical simulations."
+      },{
+        "name":"MatplotLib",
+        "image_url":"https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1024px-Created_with_Matplotlib-logo.svg.png",
+        "info":"Matplotlib is a widely-used Python library for creating static, animated, and interactive visualizations. Developed by John D. Hunter in 2003, it serves as the foundational plotting library in the Python ecosystem, especially within the data science and scientific computing communities."
+      },
+      {
+        "name": "Mediapipe",
+        "image_url": "https://viz.mediapipe.dev/logo.png",
+        "info":"MediaPipe is an open-source framework developed by Google for building multimodal machine learning pipelines. It provides pre-trained models and tools for tasks like face detection, hand tracking, and pose estimation. MediaPipe is designed to be cross-platform, running on mobile devices, desktops, and web applications. It is highly customizable and optimized for real-time performance, making it ideal for applications in augmented reality, video analysis, and interactive media."
+      },
+      {
+        "name": "OpenCV",
+        "image_url": "https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png",
+        "info":"OpenCV (Open Source Computer Vision Library) is an open-source computer vision and machine learning software library. Created by Intel in 1999, OpenCV provides a comprehensive set of tools for image and video analysis, including functions for object detection, face recognition, and motion tracking. It is widely used in academic research and commercial applications, supporting multiple programming languages (C++, Python, Java) and platforms (Windows, Linux, macOS, Android, iOS)."
+      },
+      {
+        "name": "Pygame",
+        "image_url": "https://www.pygame.org/docs/_images/pygame_logo.png",
+        "info":"Pygame is a set of Python modules designed for writing video games. Developed by Pete Shinners and first released in 2000, Pygame provides functionalities for creating graphics, handling user input, and managing game events. It is built on top of the SDL library and offers an easy-to-use API for game development. Pygame is suitable for beginners and hobbyists looking to create simple games and interactive applications."
+      },
+      {
+        "name": "Pillow",
+        "image_url": "https://python-pillow.org/assets/images/pillow-logo-248x250.png",
+        "info":"Pillow is a Python Imaging Library (PIL) fork, providing extensive capabilities for image processing. Created to continue the development of PIL, Pillow supports opening, manipulating, and saving many different image file formats. It includes tools for image transformations, filters, and enhancements, making it a versatile library for applications involving image analysis and manipulation."
+      },{
+        "name": "Arch",
+        "image_url": "https://cdn.iconscout.com/icon/free/png-256/free-archlinux-3521282-2944701.png",
+        "info":"Arch Linux is a lightweight and flexible Linux distribution aimed at experienced users. It follows a rolling release model, ensuring that users always have access to the latest software versions. Arch Linux emphasizes simplicity and user control, with a minimal base system and a powerful package manager, Pacman. Users configure and build their systems from the ground up, tailoring it to their specific needs."
+      },
+      {
+        "name": "MongoDB",
+        "image_url": "https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg",
+        "info":"MongoDB is a NoSQL database designed for scalability, flexibility, and performance. Developed by MongoDB Inc. and first released in 2009, MongoDB stores data in a document-oriented format, using JSON-like documents. It supports dynamic schemas, allowing for flexible and evolving data models. MongoDB is widely used in modern web applications, big data analytics, and real-time processing."
+      },
+      {
+        "name": "Figma",
+        "image_url": "https://cdn-icons-png.flaticon.com/512/5968/5968705.png",
+        "info":"Figma is a collaborative interface design tool that allows designers to create, prototype, and share their designs. Launched in 2016, Figma operates entirely in the browser, offering real-time collaboration features similar to Google Docs. It supports vector graphics, design systems, and interactive prototypes, making it a popular choice for UI/UX design teams."
+      },
+      {
+        "name": "Git",
+        "image_url": "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png",
+        "info":"Git is a distributed version control system created by Linus Torvalds in 2005. It is designed to handle everything from small to very large projects with speed and efficiency. Git allows multiple developers to collaborate on a codebase, tracking changes and managing versions through a robust branching and merging model. It is the backbone of many modern software development workflows, often used in conjunction with platforms like GitHub, GitLab, and Bitbucket."
+      },
+      {
+        "name": "Krita",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Calligrakrita-base.svg/800px-Calligrakrita-base.svg.png",
+        "info":"Krita is an open-source digital painting and illustration software. It is designed for artists, offering a wide range of tools for sketching, painting, and creating detailed artwork. Krita supports various brush engines, layer management, and color spaces, making it suitable for concept art, texture and matte painting, and comics. It is available on multiple platforms, including Windows, Linux, and macOS."
+      },
+      {
+        "name": "Audacity",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Audacity_Logo.svg/2048px-Audacity_Logo.svg.png",
+        "info":"Audacity is a free, open-source, cross-platform audio editor and recorder. It was developed by Dominic Mazzoni and Roger Dannenberg and first released in 2000. Audacity provides a wide range of features for recording, editing, and mixing audio tracks. It supports multiple audio formats and includes tools for effects processing, noise reduction, and audio analysis. Audacity is widely used for podcasting, music production, and audio restoration."
+      }
+      
+  ]

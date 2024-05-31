@@ -1,0 +1,68 @@
+[
+    {
+        "name": "air mouse",
+        "image_url": "/img/airMouse.png",
+        "desc": "The Air Mouse is  that allows you to control your computer cursor with hand movements. By utilizing Mediapipe for hand tracking and PyAutoGUI for cursor control, it enables you to move the cursor and click using gestures. This project transforms your hand into a virtual mouse, providing an intuitive and futuristic way to interact with your computer.",
+        "link": "http://example.com/air-mouse"
+    },
+    {
+        "name": "news app",
+        "image_url": "/img/news.png",
+        "desc": "This comprehensive news application offers the latest updates from around the world, aggregating information using NEWSAPI. Users can search for news articles based on categories, ensuring they can easily find news relevant to their interests. Built with React, the app provides a responsive and user-friendly interface for a seamless news-reading experience.",
+        "link": "http://example.com/news-app"
+    },
+    {
+        "name": "blog app",
+        "image_url": "/img/blog.png",
+        "desc": "The Blog App is a platform for creating, sharing, and managing blogs. Users can write and publish their own blogs, as well as search for blogs by title or the author. Built using Flask, Python, and MongoDB, this app provides a robust backend for handling blog data and a smooth frontend for user interaction.",
+        "link": "http://example.com/blog-app"
+    },
+    {
+        "name": "car racing game",
+        "image_url": "/img/car.png",
+        "desc": "This is an exciting car racing game where players navigate through dynamic gameplay, avoiding other cars and obstacles. Built using Pygame and Python, the game offers an engaging experience with smooth graphics and responsive controls, making it fun and challenging for players of all ages.",
+        "link": "http://example.com/car-racing-game"
+    },
+    {
+        "name": "Dino runner",
+        "image_url": "/img/dino.png",
+        "desc": "The Dino Runner is a recreation of the classic offline game that features a dinosaur running through a series of obstacles. Developed using Pygame and Python, this game offers the same fun and addictive gameplay as the original, challenging players to see how far they can run without hitting any obstacles.",
+        "link": "http://example.com/chrome-dino-runner"
+    },
+    {
+        "name": "space war",
+        "image_url": "/img/spaceWar.png",
+        "desc": "Space War is a two-player game where each player controls a spaceship and attempts to shoot down the other. The game is designed to be competitive and fast-paced, providing an exciting experience for players. Built with Python, it offers engaging multiplayer gameplay.",
+        "link": "http://example.com/space-war"
+    },
+    {
+        "name": "music player",
+        "image_url": "/img/musicplayer.png",
+        "desc": "This Music Player app allows users to play music from a specified folder on their computer. It is built using Pygame and Tkinter in Python, providing a simple and user-friendly interface for playing and managing music files.",
+        "link": "http://example.com/music-player"
+    },
+    {
+        "name": "automation bot",
+        "image_url": "/img/automation.png",
+        "desc": "The Automation Bot is a versatile tool designed to streamline and automate repetitive tasks. It can perform a variety of operations, including mathematical calculations and simple equations. Built using the Python modules Curieous and Webbrowser, this bot can significantly enhance productivity by handling mundane tasks efficiently.",
+        "link": "http://example.com/automation-bot"
+    },
+    {
+        "name": "image editor",
+        "image_url": "/img/Editor.png",
+        "desc": "This powerful Image Editor offers a wide range of tools for photo manipulation and enhancement. Users can edit images with features such as cropping, resizing, and applying filters. Built using Tkinter and Pillow, the app provides a comprehensive set of tools for both basic and advanced image editing.",
+        "link": "http://example.com/image-editor"
+    },
+    {
+        "name": "calculator",
+        "image_url": "/img/calculator.png",
+        "desc": "The Calculator app is a simple yet efficient tool for all your mathematical needs. It not only performs standard calculations but also has features to search text on Google and plot graphs of equations. Built using Tkinter and Matplotlib, this app combines basic calculator functionality with advanced capabilities for enhanced utility.",
+        "link": "http://example.com/calculator"
+    },
+    {
+        "name": "weather website",
+        "image_url": "/img/weather.png",
+        "desc": "This Weather Website provides real-time weather updates and forecasts. Built with Flask, it pulls data from weather APIs to deliver current conditions, forecasts, and other weather-related information. The app offers a user-friendly interface for checking weather updates easily and accurately.",
+        "link": "http://example.com/weather-flask"
+    }
+]
